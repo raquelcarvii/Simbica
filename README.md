@@ -46,6 +46,5 @@ Queimei sensor, errei conexão, passei horas tentando — e no final ele andou.
 
 A constância nos leva longe quando estamos fazendo algo que realmente nos importa.
 
-## 📬 Contato
 
 Feito com 💙 por raquelcarvii
