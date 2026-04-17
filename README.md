@@ -1,5 +1,6 @@
 
 # 🤖 Simbica
+![Simbica](otto.jpg)
 
 Projeto de robótica criado em homenagem ao meu gato Simba. ❤️
 
